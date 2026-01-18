@@ -17,14 +17,4 @@
 * **Tray Access:** Quick-control your home directly from the Windows Taskbar.
 * **Unified Dashboard:** One codebase powering your Web, Android, and Desktop experience.
 
----
-
-### Your First Move in the Repo
-
-Since you're using **Turborepo** and **pnpm**, I recommend initializing the project with this structure:
-
-1. `apps/web`: Your Next.js core.
-2. `apps/desktop`: Your Tauri wrapper.
-3. `packages/database`: Shared Prisma schema.
-4. `packages/iot-logic`: Shared `tuyapi` connection utilities.
 
