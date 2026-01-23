@@ -91,6 +91,7 @@ S.I.G.A. is optimized for **Oracle Cloud Infrastructure (OCI)**.
 
 ## 🤝 Contributing
 
+
 This is a personal project by **[tildemark](https://www.google.com/search?q=https://github.com/tildemark)**, focusing on the Cebu/CDO tech ecosystem. Feel free to fork, submit PRs, or report issues.
 
 **License:** MIT
